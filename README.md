@@ -2,9 +2,12 @@
 
 ## 参考文献
 
-[AngularPlatform (一)](https://zhuanlan.zhihu.com/p/94570685)
-[AngularPlatform (二)](https://zhuanlan.zhihu.com/p/94816548)
-[AngularPlatform (三)](https://zhuanlan.zhihu.com/p/95032216)
+- [AngularPlatform (一)](https://zhuanlan.zhihu.com/p/94570685) | [原文](https://medium.com/angular-in-depth/angular-platforms-in-depth-part-1-what-are-angular-platforms-9919d45f3054)
+- [AngularPlatform (二)](https://zhuanlan.zhihu.com/p/94816548) | [原文](https://blog.angularindepth.com/angular-platforms-in-depth-part-2-application-bootstrap-process-8be461b4667e)
+- [AngularPlatform (三)](https://zhuanlan.zhihu.com/p/95032216) | [原文][https://medium.com/angular-in-depth/angular-platforms-in-depth-part-3-rendering-angular-applications-in-terminal-117e4da9c0cc]
+
+* [原作者](https://twitter.com/NikPoltoratsky)
+* [原始 Git](https://github.com/Tibing/platform-terminal)
 
 ## 概述
 
@@ -16,7 +19,7 @@ Mac 环境下已测试通过
 本示例已经是所有包的最小依赖
 
 效果图如下:
-![效果图](platform-terminal-demo.gif)
+![效果图](https://github.com/ManonLoki/AngularTeminalDemo/blob/master/platform-terminal-demo.gif?raw=true)
 
 ## 依赖版本
 
