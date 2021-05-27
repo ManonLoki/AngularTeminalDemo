@@ -15,6 +15,9 @@ Mac 环境下已测试通过
 
 本示例已经是所有包的最小依赖
 
+效果图如下:
+![效果图](platform-terminal-demo.gif)
+
 ## 依赖版本
 
 Node.JS 版本 14
