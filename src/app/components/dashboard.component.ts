@@ -1,17 +1,17 @@
 /*
  * @Author: your name
  * @Date: 2021-05-27 11:05:48
- * @LastEditTime: 2021-05-27 11:11:57
+ * @LastEditTime: 2021-05-27 16:51:02
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /terminal-ng-demo/src/app/components/dashboard.component.ts
  */
 import { ChangeDetectionStrategy, Component } from '@angular/core';
 
-import { TransactionsService } from '../transactions.service';
-import { SparklineService } from '../sparkline.service';
-import { ServerUtilizationService } from '../server-utilization.service';
-import { ProcessManagerService } from '../process-manager.service';
+import { TransactionsService } from '../services/transactions.service';
+import { SparklineService } from '../services/sparkline.service';
+import { ServerUtilizationService } from '../services/server-utilization.service';
+import { ProcessManagerService } from '../services/process-manager.service';
 
 @Component({
   selector: 'pl-3-dashboard',

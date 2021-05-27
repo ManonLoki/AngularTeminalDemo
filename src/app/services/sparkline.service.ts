@@ -1,3 +1,11 @@
+/*
+ * @Author: your name
+ * @Date: 2021-05-27 11:02:49
+ * @LastEditTime: 2021-05-27 16:54:31
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: /terminal-ng-demo/src/app/services/sparkline.service.ts
+ */
 import { Injectable } from '@angular/core';
 import { interval, Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
