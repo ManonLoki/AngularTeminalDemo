@@ -4,7 +4,7 @@
 
 - [AngularPlatform (一)](https://zhuanlan.zhihu.com/p/94570685) | [原文](https://medium.com/angular-in-depth/angular-platforms-in-depth-part-1-what-are-angular-platforms-9919d45f3054)
 - [AngularPlatform (二)](https://zhuanlan.zhihu.com/p/94816548) | [原文](https://blog.angularindepth.com/angular-platforms-in-depth-part-2-application-bootstrap-process-8be461b4667e)
-- [AngularPlatform (三)](https://zhuanlan.zhihu.com/p/95032216) | [原文][https://medium.com/angular-in-depth/angular-platforms-in-depth-part-3-rendering-angular-applications-in-terminal-117e4da9c0cc]
+- [AngularPlatform (三)](https://zhuanlan.zhihu.com/p/95032216) | [原文](https://medium.com/angular-in-depth/angular-platforms-in-depth-part-3-rendering-angular-applications-in-terminal-117e4da9c0cc)
 
 * [原作者](https://twitter.com/NikPoltoratsky)
 * [原始 Git](https://github.com/Tibing/platform-terminal)
