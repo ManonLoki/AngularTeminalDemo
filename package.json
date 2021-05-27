@@ -2,7 +2,7 @@
   "name": "terminal-ng-demo",
   "version": "0.0.0",
   "scripts": {
-    "build": "npm run clean && npx ngcc && npx ngc",
+    "build": "npx ngcc && npx ngc",
     "clean": "rm -rf ./dist",
     "start": "npm run build && node ./dist/terminal/main.js"
   },
